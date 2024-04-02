@@ -1,0 +1,14 @@
+### This hosts file is brought to you by EdgeDNS              ###
+### Source: https://github.com/Moto/host-blacklist            ###
+### Blocked Domains sent to blocked.edgedns.xyz this domain   ###
+### resolves to 127.0.0.1 will make a notice page at this url ###
+### at somepoint.                                             ###
+
+### Version Information ###
+### Version: 0.0.1      ###
+### Version Information ###
+
+
+### DO NOT EDIT BELOW THIS LINE! ###
+
+blocked.edgedns.xyz aol.com
