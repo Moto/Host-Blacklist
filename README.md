@@ -1,2 +1,1 @@
-# host-blacklist
-EdgeDNS Host Blacklist
+# EdgeDNS Host Blacklist
